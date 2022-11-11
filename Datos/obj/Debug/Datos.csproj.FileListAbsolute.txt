@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\bin\Debug\Datos.dll.config
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\bin\Debug\Datos.dll
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\bin\Debug\Datos.pdb
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\obj\Debug\Datos.dll
+C:\Users\Lucas\source\repos\SolucionPetFunny\Datos\obj\Debug\Datos.pdb

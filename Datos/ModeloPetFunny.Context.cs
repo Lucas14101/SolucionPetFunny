@@ -29,6 +29,6 @@ namespace Datos
         public DbSet<Propietario> Propietario { get; set; }
         public DbSet<TipoAlojamiento> TipoAlojamiento { get; set; }
         public DbSet<TipoMascota> TipoMascota { get; set; }
-        public DbSet<Usuarios> Usuarios { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }
